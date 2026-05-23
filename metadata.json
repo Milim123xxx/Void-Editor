@@ -1,0 +1,6 @@
+{
+  "name": "Void Editor",
+  "description": "A fully-featured mobile IDE with Git integration, extension Marketplace, terminal console, tab-based layout, and AI Assist Copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
